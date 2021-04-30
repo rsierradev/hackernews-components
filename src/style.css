@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.hackerNewsTitle {
+  color: black;
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.orangeBG {
+  background-color: #ff6701;
+}
+
+.blackFont {
+  color: black;
+}
+
+.newsListContainer {
+  background-color: #f6f6ef;
+}
+
+.container {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
